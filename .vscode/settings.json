@@ -10,7 +10,7 @@
     "**/.awcache": true,
     "**/.server": true,
     "**/node_modules": false,
-    "**/coverage": true,
+    "**/coverage": false,
     "**/jest": false,
     "**/hybris": true,
     "**/build-tools": true,

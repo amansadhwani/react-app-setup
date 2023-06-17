@@ -6,6 +6,7 @@ function App() {
   return (
     <Fragment>
       <h1>React app setup</h1>
+      <h1>Enviornment : {import.meta.env.VITE_APP_ENV}</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}

@@ -12,15 +12,16 @@
 - run `npm run serve`
 - server will start on `http://localhost:3000/`
 
-**deployed**
-
-`https://app-setup-react.netlify.app/`
--env for this is setup on netlify
-
-**setup coveres**
+**setup covers**
 
 - React
 - Typescript
 - Vite (build)
 - Jest
 - Auto formatting
+
+**deployed**
+
+`https://app-setup-react.netlify.app/`
+
+- env for this is setup on netlify

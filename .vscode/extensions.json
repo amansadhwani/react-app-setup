@@ -1,0 +1,17 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json forma
+  "recommendations": [
+    "jpoissonnier.vscode-styled-components",
+    "plievone.vscode-template-literal-editor",
+    "christian-kohler.path-intellisense",
+    "rebornix.project-snippets",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "coenraads.bracket-pair-colorizer-2",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "simonsiefke.svg-preview",
+    "xyc.vscode-mdx-preview"
+  ]
+}

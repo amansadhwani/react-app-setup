@@ -5,12 +5,12 @@
 - Clone repo
 - Do `npm i` to install depedencies
 - To start Server `npm run dev`
-- server will start on `http://localhost:5173/`
+- server will start on [`http://localhost:5173/`](http://localhost:5173/)
 
 **Steps to run as production build**
 
 - run `npm run serve`
-- server will start on `http://localhost:3000/`
+- server will start on [`http://localhost:3000/`](http://localhost:3000/)
 
 **setup covers**
 
@@ -22,6 +22,6 @@
 
 **deployed**
 
-`https://app-setup-react.netlify.app/`
+[`https://app-setup-react.netlify.app/`](https://app-setup-react.netlify.app/)
 
 - env for this is setup on netlify

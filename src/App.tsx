@@ -1,5 +1,6 @@
 import { useState, Fragment } from "react";
 
+//VITE_APP_ENV='development' env
 function App() {
   const [count, setCount] = useState(0);
 

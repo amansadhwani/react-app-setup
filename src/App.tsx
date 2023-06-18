@@ -7,6 +7,7 @@ function App() {
     <Fragment>
       <h1>React app setup</h1>
       <h1>Enviornment : {process.env.APP_ENV}</h1>
+      <h1>KEY : {process.env.APP_KEY}</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}

@@ -5,6 +5,10 @@ function App() {
 
   return (
     <Fragment>
+      <h4>
+        To setup env just create .env file at root folder and give values as
+        APP_ENV='123'
+      </h4>
       <h1>React app setup</h1>
       <h1>Enviornment : {process.env.APP_ENV}</h1>
       <h1>KEY : {process.env.APP_KEY}</h1>
